@@ -1,7 +1,7 @@
 #nupulsebot for Telegram (MrRobot)
 #Guillermo Vallejo 2016 GPL License
-#e-mail:nupulse@ymail.com
 #you need to install bitcoin_price_master_api, TelegramBotAPI and dateutil
+#pyhton 2.7
 
 import exchanges
 import telebot
