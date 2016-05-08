@@ -1,5 +1,5 @@
 #nupulsebot for Telegram (MrRobot)
-#Guillermo Vallejo 2016 GPL License
+#nupulse 2016 GPL License
 #you need to install bitcoin_price_master_api, TelegramBotAPI and dateutil
 #pyhton 2.7
 
